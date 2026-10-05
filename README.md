@@ -177,6 +177,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [Character.AI](https://character.ai) — Create and chat with custom AI personas. Popular for entertainment and roleplay. `#free`
 - [Auferet](https://auferet.com) — AI game master for solo text adventures and tabletop RPGs that remembers your story and reads your own uploaded lore. `#free`
 - [Pi](https://pi.ai) — Inflection AI's empathetic conversational assistant focused on emotional support. `#free`
+- [Honer AI](https://xoner4.github.io/) — Android assistant by HONER with Russian/English interfaces, source-linked search, photo/document analysis, branched chat history and CSV table export. APK download is free; AI allowances follow the app's terms. `#android`
 
 ---
 
